@@ -20,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main.unity
     guid: e1f200f8a139545d0bc5411f00c93bab
+  - enabled: 1
+    path: Assets/NewStart.unity
+    guid: 28c14af66b4484f9aa0bc224f64d7b9e
+  - enabled: 1
+    path: Assets/WinScene.unity
+    guid: ea183a869b96b4bc88faccf3f73177ce
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
